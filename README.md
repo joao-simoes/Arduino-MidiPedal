@@ -29,6 +29,10 @@ Materials
 + Solder
 + Soldering Iron
 --------------------------------------------------------------
+Schemathics
+
+working on it
+--------------------------------------------------------------
 Download links:
 
 Recommended FX
