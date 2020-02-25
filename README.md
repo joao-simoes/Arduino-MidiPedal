@@ -1,1 +1,1 @@
-# Arduino-MidiPedal
+Midi Pedal Arduino
