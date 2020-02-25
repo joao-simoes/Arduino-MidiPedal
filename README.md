@@ -49,3 +49,15 @@ Used/Recommended Hardware:
 + Behringer UMC1820: https://www.thomann.de/pt/behringer_umc1820.htm
 + MIDI Cable: https://www.thomann.de/pt/the_sssnake_sk366-2_blk_midi_kabel.htm
 --------------------------------------------------------------
+# HOW TO 
+# Electronics
+1.
+2.
+3.
+4.
+
+# In the computer
+1.
+2.
+3.
+4.
