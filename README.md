@@ -1,4 +1,5 @@
 # MIDI PEDAL WITH ARDUINO
+# UNDER DEVELOPMENT
 
 I created myself a midi pedal which can be used with many different FX in any electric instrument. 
 
